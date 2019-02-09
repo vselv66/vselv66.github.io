@@ -1,2 +1,3 @@
 # vselv66.github.io
-coursera assignments
+#HTML, CSS, JavaScript for Web Developers# John Hopkins University # Coursera
+This repository contains my solutions to weekly coding assignments of this course on Coursera
