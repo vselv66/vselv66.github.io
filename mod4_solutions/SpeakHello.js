@@ -19,7 +19,7 @@ var speakWord = "Hello";
   //console.log(speakWord + " " + name);
 //} 
 
-helloSpeaker.speak = function () {
+helloSpeaker.speak = function (name) {
 	console.log(speakWord + " " + name);
 }
 
